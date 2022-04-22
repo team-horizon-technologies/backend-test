@@ -74,7 +74,7 @@
 
 - 모든 기능이 완벽하지 않아도 좋습니다. 할 수 있는 만큼만 작성해주세요.
 - Post나 Comment에 데이터를 추가하셔도 좋습니다.
-- SECRET_KEY는 `django-insecure-x$&atszjdy0c1@x=k!j%6!a!cmv&7hrd6dp=)79-r_xi%$stcr` 입니다
+- SECRET_KEY는 `django-insecure-x$&atszjdy0c1@x=k!j%6!a!cmv&7hrd6dp=)79-r_xi%$stcr` 입니다. 환경변수를 사용해서 세팅해주세요.
 
 ## 제출방법
 
